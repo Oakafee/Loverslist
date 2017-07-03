@@ -1,4 +1,4 @@
 # Loverslist
 Select three types of lovers to get a message
 
-A Django website. It lives at www.jonfried.net/loverslist.
+A Django website. It lives at www.jonfried.net/lovers-list/.
